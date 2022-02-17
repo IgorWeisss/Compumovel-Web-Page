@@ -486,10 +486,6 @@ footer br {
     gap: 0;
   }
 
-  .photo img {
-    height: 100%;
-  }
-
   .top_image {
     border-top-left-radius: 8vw;
     border-top-right-radius: 8vw;
