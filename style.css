@@ -377,7 +377,7 @@ strong {
 
 footer {
   background: linear-gradient(var(--darkBlue), var(--blue1));
-  height: 30vh;
+  height: fit-content;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -501,7 +501,7 @@ footer br {
   }
 
   footer {
-    height: 40vh;
+    height: fit-content;
   }
 
   .footer_ul {
